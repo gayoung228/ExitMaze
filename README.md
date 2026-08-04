@@ -112,6 +112,7 @@ MediaPipe가 제공하는 손 랜드마크를 이용하여 검지, 중지, 약�
 * 게임 시간 측정
 * 출구 도착 시 GAME CLEAR
 * Life가 모두 소진되면 GAME OVER
+<img width="698" height="332" alt="5" src="https://github.com/user-attachments/assets/d5f5cbc6-4196-4392-99b4-af6f4617a84b" />
 
 ---
 

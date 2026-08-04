@@ -102,7 +102,6 @@ MediaPipe가 제공하는 손 랜드마크를 이용하여 검지, 중지, 약�
 웹캠 좌표와 미로 이미지의 해상도가 서로 다르기 때문에 좌표를 미로 이미지 크기에 맞게 변환하여 정확한 위치에서 이동하도록 구현하였습니다.
 <img width="706" height="340" alt="3" src="https://github.com/user-attachments/assets/722b2bc1-ee97-481e-9a55-f5d6791b9b04" />
 
-
 ---
 
 ### 4. 게임 로직 구현
@@ -119,6 +118,7 @@ MediaPipe가 제공하는 손 랜드마크를 이용하여 검지, 중지, 약�
 ### 5. 게임 종료 화면
 
 게임 종료 후 RESTART와 EXIT 버튼을 제공하며, 검지 손가락을 버튼 위에 2초 동안 유지하면 해당 기능이 실행됩니다.
+<img width="442" height="312" alt="4" src="https://github.com/user-attachments/assets/3593868b-537b-4928-a6c6-9619fdc8b3f2" />
 
 ---
 

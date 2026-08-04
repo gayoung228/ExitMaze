@@ -78,6 +78,7 @@ python main.py
 ### 1. 시작 화면 구현
 
 웹캠 영상을 출력하고 검지 손가락이 START 버튼 영역에 들어오면 게임을 시작하도록 구현하였습니다.
+<img width="486" height="344" alt="1" src="https://github.com/user-attachments/assets/4e06c488-afb5-4532-b9e1-ee85dcb8729e" />
 
 ---
 
@@ -90,6 +91,7 @@ MediaPipe가 제공하는 손 랜드마크를 이용하여 검지, 중지, 약�
 * 3 Fingers → HARD
 
 같은 손동작을 2초 동안 유지하면 난이도가 선택됩니다.
+<img width="646" height="296" alt="2" src="https://github.com/user-attachments/assets/f73f7733-9547-4873-84d5-e4206288a89d" />
 
 ---
 
@@ -98,6 +100,8 @@ MediaPipe가 제공하는 손 랜드마크를 이용하여 검지, 중지, 약�
 검지 손가락의 현재 위치와 이전 위치의 이동량(dx, dy)을 계산하여 미로 속 빨간 점을 이동하도록 구현하였습니다.
 
 웹캠 좌표와 미로 이미지의 해상도가 서로 다르기 때문에 좌표를 미로 이미지 크기에 맞게 변환하여 정확한 위치에서 이동하도록 구현하였습니다.
+<img width="706" height="340" alt="3" src="https://github.com/user-attachments/assets/722b2bc1-ee97-481e-9a55-f5d6791b9b04" />
+
 
 ---
 

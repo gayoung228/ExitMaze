@@ -4,38 +4,6 @@
 
 ---
 
-# 실행 방법
-
-### 1. 프로젝트 다운로드
-
-```bash
-git clone https://github.com/사용자명/저장소명.git
-cd 저장소명
-```
-
-### 2. 라이브러리 설치
-
-```bash
-pip install opencv-python mediapipe numpy
-```
-
-### 3. 모델 및 이미지 확인
-
-프로젝트 실행 전 아래 파일들이 프로젝트 폴더에 존재해야 합니다.
-
-* hand_landmarker.task
-* easy1.jpg
-* medium1.jpg
-* hard1.jpg
-
-### 4. 실행
-
-```bash
-python main.py
-```
-
----
-
 # 프로젝트 개요
 
 본 프로젝트는 **OpenCV**와 **MediaPipe Hand Landmarker**를 활용하여 웹캠만으로 조작할 수 있는 손동작 기반 미로 탈출 게임입니다.
